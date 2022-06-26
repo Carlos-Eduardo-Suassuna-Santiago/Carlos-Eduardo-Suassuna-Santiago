@@ -10,7 +10,7 @@ C++ | Python | IA | YOLO | Procesamento de Imagens | Embaixador Dio Campus Exper
 - 💻 Acadêmico em Análise e Desnvolvimento de sistemas pelo IFRN
 <br></br>
 
-**PROJETOS**    
+**PROJETOS DE PESQUISA**    
 
 - Automação Residencial de Baixo Custo com Arduino
 - PRODUÇÃO DE MATERIAL DIDÁTICO APLICADO AO ESTUDO DE ALGORITMOS PARA COMPETIÇÕES DE ROBÓTICA
