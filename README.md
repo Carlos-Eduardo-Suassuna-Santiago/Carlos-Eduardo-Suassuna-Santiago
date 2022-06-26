@@ -1,6 +1,5 @@
-## Olá, me chamo Carlos Eduardo ! 
-### Bem vindo ao meu perfil GitHub 👋
-
+## Olá, me chamo Carlos Eduardo! 
+### Bem vindo ao meu perfil ![](https://komarev.com/ghpvc/?username=Carlos-Eduardo-Suassuna-Santiago&color=blue&style=flat)
 
 C++ | Python | IA | YOLO | Procesamento de Imagens | Embaixador Dio Campus Expert
 <br></br>
@@ -32,15 +31,12 @@ C++ | Python | IA | YOLO | Procesamento de Imagens | Embaixador Dio Campus Exper
 </table>
 </center> 
   
-  
 ![Snake animation](https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/blob/output/github-contribution-grid-snake.svg)
 <br></br>
-
-![](https://komarev.com/ghpvc/?username=Carlos-Eduardo-Suassuna-Santiago-github-Carlos-Eduardo-Suassuna-Santiago)
   
 **CONTATOS**
 
 <div>
 <a href="https://www.instagram.com/carlos_eduardo_suassuna/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carlos-eduardo-suassuna-santiago-94a658203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/carlos-eduardo-suassuna-santiago-94a658203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
