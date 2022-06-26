@@ -5,13 +5,13 @@
 C++ | Python | IA | YOLO | Procesamento de Imagens | Embaixador Dio Campus Expert
 
 
-##FORMAÇÃO ACADÊMICA 📚 
+FORMAÇÃO ACADÊMICA 📚 
 
 - 👷‍♂️ Técnico em Edificaçoes formado pelo IFPB
 - 💻 Acadêmico em Análise e Desnvolvimento de sistemas pelo IFRN
 
 
-##PROJETOS
+PROJETOS
 
 - Automação Residencial de Baixo Custo com Arduino
 - PRODUÇÃO DE MATERIAL DIDÁTICO APLICADO AO ESTUDO DE ALGORITMOS PARA COMPETIÇÕES DE ROBÓTICA
@@ -19,10 +19,15 @@ C++ | Python | IA | YOLO | Procesamento de Imagens | Embaixador Dio Campus Exper
 - I Competição de Robótica do IFPB Campus Catolé do Rocha
 
 
-##FERRAMENTAS E TECNOLOGIAS
+FERRAMENTAS E TECNOLOGIAS
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
 
 <div>
@@ -35,7 +40,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
 ![Snake animation](https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/blob/output/github-contribution-grid-snake.svg)
 
   
-###CONTATOS
+CONTATOS
 
 <div>
 <a href="https://www.instagram.com/carlos_eduardo_suassuna/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
