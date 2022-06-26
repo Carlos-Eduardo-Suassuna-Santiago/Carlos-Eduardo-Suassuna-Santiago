@@ -1,15 +1,15 @@
-## Olá, me chamo Carlos Eduardo! 
+# Olá, me chamo Carlos Eduardo! 
 ### Bem vindo ao meu perfil ![](https://komarev.com/ghpvc/?username=Carlos-Eduardo-Suassuna-Santiago&color=blue&style=flat)
 
 C++ | Python | IA | YOLO | Procesamento de Imagens | Embaixador Dio Campus Expert
 <br></br>
 
-**FORMAÇÃO ACADÊMICA** 📚 
+**<h2>FORMAÇÃO ACADÊMICA 📚</h2>**
 - 👷‍♂️ Técnico em Edificaçoes formado pelo IFPB
 - 💻 Acadêmico em Análise e Desnvolvimento de sistemas pelo IFRN
 <br></br>
 
-**PROJETOS DE PESQUISA**    
+**<h2>PROJETOS DE PESQUISA</h2>**    
 
 - Automação Residencial de Baixo Custo com Arduino
 - PRODUÇÃO DE MATERIAL DIDÁTICO APLICADO AO ESTUDO DE ALGORITMOS PARA COMPETIÇÕES DE ROBÓTICA
@@ -17,24 +17,22 @@ C++ | Python | IA | YOLO | Procesamento de Imagens | Embaixador Dio Campus Exper
 - I Competição de Robótica do IFPB Campus Catolé do Rocha
 <br></br>
 
-**FERRAMENTAS E TECNOLOGIAS**
+**<h2>FERRAMENTAS E TECNOLOGIAS</h2>**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="70" height="70" />
 <br></br>
   
-  <center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?Carlos-Eduardo-Suassuna-Santiago&hide=html&layout=compact&theme=buefy"/></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?Carlos-Eduardo-Suassuna-Santiago&theme=buefy"/></td>
-    </tr>   
-</table>
-</center> 
+**<h2>ESTATÍSTICAS</h2>**
+<div>
+<a href="https://github.com/Carlos-Eduardo-Suassuna-Santiago">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo-Suassuna-Santiago&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo-Suassuna-Santiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+</div>
   
 ![Snake animation](https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/blob/output/github-contribution-grid-snake.svg)
 <br></br>
   
-**CONTATOS**
+**<h2>CONTATOS</h2>**
 
 <div>
 <a href="https://www.instagram.com/carlos_eduardo_suassuna/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
