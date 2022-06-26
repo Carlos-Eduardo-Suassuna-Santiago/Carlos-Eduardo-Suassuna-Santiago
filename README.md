@@ -33,7 +33,8 @@ FERRAMENTAS E TECNOLOGIAS
 <div>
 <a href="https://github.com/Carlos-Eduardo-Suassuna-Santiago">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Carlos-Eduardo-Suassuna-Santiago&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?Carlos-Eduardo-Suassuna-Santiagooi&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?Carlos-Eduardo-Suassuna-Santiagooi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
 </div>
   
   
