@@ -24,11 +24,7 @@ C++ | Python | IA | YOLO | Procesamento de Imagens | Embaixador Dio Campus Exper
 <br></br>
   
 **<h2>ESTATÍSTICAS</h2>**
-<div>
-<a href="https://github.com/Carlos-Eduardo-Suassuna-Santiago">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo-Suassuna-Santiago&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo-Suassuna-Santiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-</div>
+
   
 ![Snake animation](https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/blob/output/github-contribution-grid-snake.svg)
 <br></br>
