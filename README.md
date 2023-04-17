@@ -1,7 +1,7 @@
 # Olá, me chamo Carlos Eduardo! 
 ### Bem vindo ao meu perfil ![](https://komarev.com/ghpvc/?username=Carlos-Eduardo-Suassuna-Santiago&color=blue&style=flat)
 
-C++ | Python | IA | YOLO | Procesamento de Imagens | Embaixador Dio Campus Expert | Thalocan
+C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaixador Dio Campus Expert | Cibersecurity | Thalocan
 <br></br>
 
 **<h2>FORMAÇÃO ACADÊMICA 📚</h2>**
