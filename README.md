@@ -5,8 +5,8 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 <br></br>
 
 **<h2>FORMAÇÃO ACADÊMICA 📚</h2>**
-- 👷‍♂️ Técnico em Edificaçoes formado pelo IFPB
-- 💻 Acadêmico em Análise e Desnvolvimento de sistemas pelo IFRN
+- 👷‍♂️ Técnico em Edificaçoes - IFPB
+- 💻 Acadêmico em Análise e Desnvolvimento de sistemas - IFRN
 <br></br>
 
 **<h2>PROJETOS DE PESQUISA</h2>**    
