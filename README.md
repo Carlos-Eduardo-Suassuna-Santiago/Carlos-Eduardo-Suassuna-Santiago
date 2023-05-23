@@ -9,6 +9,10 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 - 💻 Acadêmico em Análise e Desnvolvimento de sistemas - IFRN
 <br></br>
 
+**<h2>FORMAÇÕES COMPLEMENTARES</h2>**
+- Formação Cybersecurity Specialist - DIO
+<br></br>
+
 **<h2>PROJETOS DE PESQUISA</h2>**    
 
 - Automação Residencial de Baixo Custo com Arduino
