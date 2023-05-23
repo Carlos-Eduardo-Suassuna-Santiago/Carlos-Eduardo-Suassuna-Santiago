@@ -10,7 +10,7 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 <br></br>
 
 **<h2>FORMAÇÕES COMPLEMENTARES</h2>**
-- Formação Cybersecurity Specialist - DIO
+- 🛡️🔐👨🏻‍💻🌐 Formação Cybersecurity Specialist - DIO
 <br></br>
 
 **<h2>PROJETOS DE PESQUISA</h2>**    
