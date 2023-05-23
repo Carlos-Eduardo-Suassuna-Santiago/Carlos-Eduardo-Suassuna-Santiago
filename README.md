@@ -4,12 +4,12 @@
 C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaixador Dio Campus Expert | Cibersecurity | Thalocan
 <br></br>
 
-**<h2>FORMAÇÃO ACADÊMICA 📚</h2>**
+**<h2>FORMAÇÃO ACADÊMICA 🎓</h2>**
 - 👷‍♂️ Técnico em Edificaçoes - IFPB
 - 💻 Acadêmico em Análise e Desnvolvimento de sistemas - IFRN
 <br></br>
 
-**<h2>FORMAÇÕES COMPLEMENTARES</h2>**
+**<h2>FORMAÇÕES COMPLEMENTARES 📚</h2>**
 - 🛡️🔐👨🏻‍💻🌐 Formação Cybersecurity Specialist - DIO
 <br></br>
 
