@@ -36,7 +36,6 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 </div>
   
 ![Snake animation](https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/blob/output/github-contribution-grid-snake.svg)
 <br></br>
   
 **<h2>CONTATOS</h2>**
