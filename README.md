@@ -35,7 +35,6 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 <img height="185em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Carlos-Eduardo-Suassuna-Santiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
   
-![Snake animation](https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/blob/output/github-contribution-grid-snake.svg)
 <br></br>
   
 **<h2>CONTATOS</h2>**
