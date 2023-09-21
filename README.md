@@ -11,6 +11,10 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 
 **<h2>FORMAÇÕES COMPLEMENTARES 📚</h2>**
 - 🛡️🔐👨🏻‍💻🌐 Formação Cybersecurity Specialist - DIO
+- 🛡️🔐👨🏻‍💻🌐 Segurança ofensiva e teste de invasão – Bruno fraga (técnicas de invasão)
+- 🛡️🔐👨🏻‍💻🌐 Introdução ao pentest na prática – desec information security
+- 🛡️🔐👨🏻‍💻🌐 Detecção de Objetos com YOLO, Darknet, OpenCV e Python - udemy
+
 <br></br>
 
 **<h2>PROJETOS DE PESQUISA</h2>**    
