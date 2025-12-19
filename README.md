@@ -54,7 +54,7 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo-Suassuna-Santiago&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Eduardo-Suassuna-Santiago&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false&order=2&custom_title=Linguagens" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Eduardo-Suassuna-Santiago&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlos-Eduardo-Suassuna-Santiago&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -74,9 +74,19 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
   
 **<h2>CONTATOS</h2>**
 
-<div>
-<a href="https://www.instagram.com/carlos_eduardo_suassuna/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carlos-eduardo-suassuna-santiago-94a658203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="left">
+  <a href="https://www.instagram.com/carlos_eduardo_suassuna" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-suassuna-santiago-94a658203" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5583996835616?text=Oi%20Carlos%20Eduardo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="61" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://t.me/zackvirus" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="61" height="40" alt="telegram logo"  />
+  </a>
 </div>
 
 <div>
