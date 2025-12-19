@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=99&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
 # Olá, me chamo Carlos Eduardo! 
 ### Bem vindo ao meu perfil ![](https://komarev.com/ghpvc/?username=Carlos-Eduardo-Suassuna-Santiago&color=blue&style=flat)
 
@@ -48,10 +52,17 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 
 **<h2>ESTATÍSTICAS</h2>**
 
-<div>
-<a href="https://github.com/Carlos-Eduardo-Suassuna-Santiago">
-<img height="185em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Carlos-Eduardo-Suassuna-Santiago&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-<img height="185em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Carlos-Eduardo-Suassuna-Santiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo-Suassuna-Santiago&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Eduardo-Suassuna-Santiago&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlos-Eduardo-Suassuna-Santiago&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
 <picture>
@@ -75,3 +86,6 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 <a href="https://www.linkedin.com/in/carlos-eduardo-suassuna-santiago-94a658203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=99&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
