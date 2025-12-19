@@ -35,9 +35,14 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 
 **<h2>SELOS DE COMPETÊNCIA</h2>**
 
-![introduction-to-cybersecurity](https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/assets/88455121/196009eb-0605-4848-bc86-532155992288) 
-![junior-cybersecurity-analyst-career-path 1 (1)](https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/assets/88455121/0fa920c0-045d-4dfe-a610-6a0872ad818c)
-[![Google Cloud Computing Foundations](https://images.credly.com/size/150x150/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png)](https://www.credly.com/badges/0f1d2e5f-1ece-41b6-9c9a-bd3c57f58d47/public_url)
+<p>
+  <img src="https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/assets/88455121/196009eb-0605-4848-bc86-532155992288" alt="Introduction to Cybersecurity" width="120" />
+  <img src="https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/assets/88455121/0fa920c0-045d-4dfe-a610-6a0872ad818c" alt="Junior Cybersecurity Analyst Career Path" width="120" />
+  <a href="https://www.credly.com/badges/0f1d2e5f-1ece-41b6-9c9a-bd3c57f58d47/public_url">
+    <img src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="Google Cloud Computing Foundations" width="120" />
+  </a>
+</p>
+
 
 <br></br>
 
@@ -49,7 +54,10 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 <img height="185em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Carlos-Eduardo-Suassuna-Santiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/blob/output/github-contribution-grid-snake.svg)
+<p>
+  <img src="https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
   
 <br></br>
   
