@@ -14,8 +14,8 @@ jobs:
         with:
           github_user_name: Carlos-Eduardo-Suassuna-Santiago
           outputs: |
-            output/dist/github-contribution-grid-snake.svg
-            output/dist/github-contribution-grid-snake-dark.svg
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg
 
 
       - name: Push snake animation
