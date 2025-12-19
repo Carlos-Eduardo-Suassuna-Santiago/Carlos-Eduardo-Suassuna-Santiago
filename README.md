@@ -37,7 +37,8 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 
 ![introduction-to-cybersecurity](https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/assets/88455121/196009eb-0605-4848-bc86-532155992288) 
 ![junior-cybersecurity-analyst-career-path 1 (1)](https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/assets/88455121/0fa920c0-045d-4dfe-a610-6a0872ad818c)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0f1d2e5f-1ece-41b6-9c9a-bd3c57f58d47" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Google Cloud Computing Foundations](https://images.credly.com/size/150x150/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png)](https://www.credly.com/badges/0f1d2e5f-1ece-41b6-9c9a-bd3c57f58d47/public_url)
+
 <br></br>
 
 **<h2>ESTATÍSTICAS</h2>**
