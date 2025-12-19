@@ -5,7 +5,13 @@
 # Olá, me chamo Carlos Eduardo! 
 ### Bem vindo ao meu perfil ![](https://komarev.com/ghpvc/?username=Carlos-Eduardo-Suassuna-Santiago&color=blue&style=flat)
 
-C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaixador Dio Campus Expert | Cibersecurity
+💻 Desenvolvedor e pesquisador em tecnologia educacional e robótica. Experiência com automação residencial de baixo custo usando Arduino, robótica educacional e produção de material didático para algoritmos e competições. Atuante em projetos que unem IA, Deep Learning e educação (SmartSchool), além do uso de mídias digitais e podcasts no ensino de Física e Ciências. Participação na I Competição de Robótica do IFPB – Campus Catolé do Rocha e desenvolvimento de sistemas para coleta, agregação e gestão de dados clínicos.
+
+- 🚀 C++ | Python | Lua
+- 🤖 IA • YOLO • Processamento de Imagens
+- 🔐 Cibersecurity
+- ☁️ Google Cloud Computing Foundations
+- 🎓 Embaixador DIO Campus Expert
 <br></br>
 
 **<h2>FORMAÇÃO ACADÊMICA 🎓</h2>**
@@ -14,13 +20,11 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 <br></br>
 
 **<h2>FORMAÇÕES COMPLEMENTARES 📚</h2>**
-- 🛡️🔐👨🏻‍💻 Formação Cybersecurity Specialist - DIO
-- 🛡️🔐👨🏻‍💻 Segurança ofensiva e teste de invasão – Bruno fraga (técnicas de invasão)
-- 🛡️🔐👨🏻‍💻 Introdução ao pentest na prática – Desec Information Security
-- 🛡️🔐👨🏻‍💻 Santander Bootcamp Cibersegurança - Santander Universidades
-- 🛡️🔐👨🏻‍💻 Introdução ao Hacking e Pentest 2.0 - Solyd
-- 🛡️🔐👨🏻‍💻 Projeto de Redes Wireless Seguras - IFPB Campus Catolé do Rocha
-- 🌐 Detecção de Objetos com YOLO, Darknet, OpenCV e Python - Udemy
+- 💻 Cybersecurity Specialist | Pentest & Segurança Ofensiva
+- 🎓 Formação em Cibersegurança pela DIO e Santander Universidades
+- 🛡️ Pentest na prática (Desec) | Técnicas de invasão (Bruno Fraga)
+- 🤖 Visão Computacional: YOLO, Darknet, OpenCV e Python
+- 🔌 FIC+ em Sistemas Embarcados – IFRN
 <br></br>
 
 **<h2>PROJETOS DE PESQUISA</h2>**    
@@ -30,11 +34,42 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
 - MÍDIAS DIGITAIS, FICÇÃO CIENTÍFICA E ENSINO: A UTILIZAÇÃO DO PODCAST COMO FERRAMENTA PARA O ENSINO DE FÍSICA E CIÊNCIAS
 - I Competição de Robótica do IFPB Campus Catolé do Rocha
 - SMARTSCHOOL: APLICAÇÕES DE DEEP LEARNING NO CONTEXTO ESCOLAR
+- Aplicação de Coleta de Dados de Estudos Clínicos e Sistema Agregador e de Gestão Dados
 <br></br>
 
 **<h2>FERRAMENTAS E TECNOLOGIAS</h2>**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" />          
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="lua logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" alt="raspberrypi logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="opencv logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+</div>
 <br></br>
 
 **<h2>SELOS DE COMPETÊNCIA</h2>**
@@ -46,8 +81,6 @@ C++ | Python | Inteligencia Artificial | YOLO | Procesamento de Imagens | Embaix
     <img src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="Google Cloud Computing Foundations" width="120" />
   </a>
 </p>
-
-
 <br></br>
 
 **<h2>ESTATÍSTICAS</h2>**
