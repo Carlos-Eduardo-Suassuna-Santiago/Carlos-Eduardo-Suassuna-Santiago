@@ -323,15 +323,31 @@ Meu objetivo é continuar evoluindo tecnicamente, participar de projetos de maio
 <div align="left">
 
   <a href="https://www.linkedin.com/in/carlos-eduardo-suassuna-santiago-94a658203" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="40"
+         height="40"
+         alt="LinkedIn" />
   </a>
 
   <a href="https://www.instagram.com/carlos_eduardo_suassuna" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="40" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         width="40"
+         height="40"
+         alt="Instagram" />
+  </a>
+
+  <a href="https://wa.me/5583996835616?text=Oi%20Carlos%20Eduardo" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366"
+         width="40"
+         height="40"
+         alt="WhatsApp" />
   </a>
 
   <a href="https://t.me/zackvirus" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="61" height="40" alt="Telegram" />
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4"
+         width="40"
+         height="40"
+         alt="Telegram" />
   </a>
 
 </div>
