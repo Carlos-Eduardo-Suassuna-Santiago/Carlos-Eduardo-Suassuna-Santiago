@@ -77,9 +77,21 @@
 <p>
   <img src="https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/assets/88455121/196009eb-0605-4848-bc86-532155992288" alt="Introduction to Cybersecurity" width="120" />
   <img src="https://github.com/Carlos-Eduardo-Suassuna-Santiago/Carlos-Eduardo-Suassuna-Santiago/assets/88455121/0fa920c0-045d-4dfe-a610-6a0872ad818c" alt="Junior Cybersecurity Analyst Career Path" width="120" />
-  <a href="https://www.credly.com/badges/0f1d2e5f-1ece-41b6-9c9a-bd3c57f58d47/public_url">
-    <img src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="Google Cloud Computing Foundations" width="120" />
-  </a>
+ <a href="https://www.credly.com/badges/0f1d2e5f-1ece-41b6-9c9a-bd3c57f58d47/public_url">
+  <img
+    src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png"
+    alt="Google Cloud Computing Foundations"
+    width="120"
+  />
+</a>
+
+<a href="https://www.credly.com/badges/a331d71d-1fc0-4ab4-9e8d-1f893dd34d87/public_url">
+  <img
+    src="https://images.credly.com/size/340x340/images/505080ad-3731-4b1d-98df-347655a45750/image.png"
+    alt="Google Cloud Cybersecurity Certificate"
+    width="120"
+  />
+</a>
 </p>
 <br></br>
 
